@@ -6,7 +6,7 @@ using namespace std;
 
 int main (int argc, char *argv[]) {
 	
-	string nombre_srt = "snk_Sony AVC-MVC_SNK_720";
+	string nombre_srt = "snk_Sony AVC-MVC_SNK_1080";
 	
 	double paso = 61; // en segundos
 	paso *= 1000; // paso a milisegundos
